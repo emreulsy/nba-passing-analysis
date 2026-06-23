@@ -72,7 +72,6 @@ NBA data (2009–2020), three linked tables:
 `pandas` · `numpy` · `scipy` · `statsmodels` · `scikit-learn` · `pysubgroup` · `matplotlib`
 
 ## Author
-
-[Your Name] — Sports Data Science, Leiden University (LIACS), 2026
-
+Emre Ulusoy — Sports Data Science, Leiden University (LIACS), 2026
+MSc Student of Data Science- Leiden University
 Former university-level basketball and football player (Turkey).
