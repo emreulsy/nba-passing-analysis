@@ -23,7 +23,7 @@ Using a dataset of 12,777 NBA games, the analysis combines **hypothesis testing*
 | Assist differential is the single strongest predictor of winning | 44% feature importance |
 | Dominating 3 of 4 statistical categories | 83% win rate |
 | Dominating all 4 categories | 95% win rate |
-| Three-pointers that are assisted (created by a pass) | 83% |
+| Three-pointers that are assisted (created by a pass) | 81% |
 | Teams with 9+ players recording assists | 56% win rate |
 | Predictive model accuracy (logistic regression, 5 features) | 79%, AUC 0.87 |
 
